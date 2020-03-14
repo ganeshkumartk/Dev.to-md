@@ -1,4 +1,4 @@
-# Dev.to Posts-> .md
+# Dev.to Posts -> .md
 This action does the following:
 
 * Search for a DEV contributor's latest blog posts using the DEV API
