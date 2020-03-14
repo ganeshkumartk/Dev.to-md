@@ -1,0 +1,8 @@
+name: DEV.to To Markdown
+description: Search for new DEV blog posts and raise a PR with the post converted to Jekyll Markdown Post
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: twitter
+  color: white
